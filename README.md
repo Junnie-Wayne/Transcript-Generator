@@ -1,0 +1,3 @@
+This system allows the user, in this case a student, to enter his/her details such as date of birth, student ID, department and so on, as well as the details of his/her programme of study as well as courses related to the programme of study.
+The number of credit hours, the course scores and course codes of the various courses of the related programme are taken and the Grade Point Average is calculated based on a grading system.
+The course codes, credit hours, scores, grades as well as grade point totals for each course are displayed together will the other entered details such as name, ID, date of birth, department name and lastly the Grade Point Average(GPA)
